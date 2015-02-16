@@ -8,3 +8,6 @@ description = "A chunks-based, state machine HTTP parser."
 readme = "README.md"
 license = "MIT"
 
+[dependencies]
+hyper = "*"
+
